@@ -1,0 +1,148 @@
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\appsettings.json
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\CaseStudy.exe
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\CaseStudy.deps.json
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\CaseStudy.runtimeconfig.json
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\CaseStudy.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\CaseStudy.pdb
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.csproj.AssemblyReference.cache
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.AssemblyInfo.cs
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\scopedcss\bundle\CaseStudy.styles.css
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.csproj.CopyComplete
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\refint\CaseStudy.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.pdb
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\CaseStudy.genruntimeconfig.cache
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\obj\Debug\net6.0\ref\CaseStudy.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Devendra Sharma\Downloads\Dot Net Full Stack\Csharp\.netCore\CaseStudy\bin\Debug\net6.0\CaseStudy.staticwebassets.runtime.json
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\appsettings.Development.json
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\appsettings.json
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\CaseStudy.staticwebassets.runtime.json
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\CaseStudy.exe
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\CaseStudy.deps.json
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\CaseStudy.runtimeconfig.json
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\CaseStudy.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\CaseStudy.pdb
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\AutoMapper.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Humanizer.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.Web.Http.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Scrutor.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.csproj.AssemblyReference.cache
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.AssemblyInfoInputs.cache
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.AssemblyInfo.cs
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.csproj.CoreCompileInputs.cache
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.MvcApplicationPartsAssemblyInfo.cs
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.MvcApplicationPartsAssemblyInfo.cache
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\staticwebassets.build.json
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\staticwebassets.development.json
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\scopedcss\bundle\CaseStudy.styles.css
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.csproj.CopyComplete
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\refint\CaseStudy.dll
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.pdb
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\CaseStudy.genruntimeconfig.cache
+D:\FINALUPDATEDCASESTUDY\Backend\CropDealFinal-main\obj\Debug\net6.0\ref\CaseStudy.dll

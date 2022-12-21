@@ -1,0 +1,41 @@
+/* .card.second{
+    padding: 5px;
+    color: #000;
+    margin: auto;
+   
+    border: auto;
+    border-color: #4183c6 ;
+    border-radius:1rem;
+    border-width: 2px;
+
+}
+.card.second:hover{
+    box-shadow: 2px 2px 2px 2px #4183c6;
+   
+    transform: scale(1.05);
+}
+.btn{
+    color: white;
+}
+.card-title{
+    color:blue;
+} */
+.card.second{
+    padding: 15px;
+    color: #000;
+    
+    margin: auto;
+    height: 100%;
+    box-shadow: 2px 2px 2px 2px #4183c6;
+    border: auto;
+
+}
+.card.second:hover{
+    box-shadow: 2px 2px 2px 2px #4183c6;
+   
+    transform: scale(1.05);
+}
+.outer-div{
+    height: 74%;
+    margin: auto;
+}
